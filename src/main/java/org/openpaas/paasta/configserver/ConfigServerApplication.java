@@ -1,4 +1,4 @@
-package org.openpaas.paasta.gateway;
+package org.openpaas.paasta.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
