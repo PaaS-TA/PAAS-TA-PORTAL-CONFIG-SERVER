@@ -9,7 +9,7 @@ spring:
           username: GIT_ID
           password: GIT_PASSWORD
 server:
-  port: ${8004}
+  port: ${PORT:8004}
 
 
 
