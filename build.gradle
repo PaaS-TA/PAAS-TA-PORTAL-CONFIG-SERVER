@@ -30,8 +30,6 @@ repositories {
 
 dependencies {
     compile('org.springframework.cloud:spring-cloud-config-server')
-    compile('org.springframework.cloud:spring-boot-admin-server-ui-login')
-    compile('org.springframework.cloud:spring-boot-starter-security')
 }
 
 dependencyManagement {
