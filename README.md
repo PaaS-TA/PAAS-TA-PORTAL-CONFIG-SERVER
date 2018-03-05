@@ -1,6 +1,5 @@
 # PAAS-TA-PORTAL-CONFIG-SERVER
-## 버전정보
-Portal v2.0의 Sprint1의 개발중인 버전이다.
+
 
 ## Config Server
 config server 를 간단히 설명하면, 다른 서버들의 설정을 제공하는 서비스
