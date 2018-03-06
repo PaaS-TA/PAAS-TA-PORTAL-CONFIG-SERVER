@@ -40,7 +40,7 @@ dependencyManagement {
 apply plugin: 'jacoco'
 
 jacoco {
-	toolVersion = "0.7.9+"
+    toolVersion = "0.7.9+"
 }
 
 test {
