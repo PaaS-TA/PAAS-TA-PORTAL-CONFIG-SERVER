@@ -8,12 +8,11 @@ spring:
           uri: YOUR_GIT_URL
           username: GIT_ID
           password: GIT_PASSWORD
+          force-pull: true
+
 server:
   port: ${PORT:8004}
-
-
 
 management:
   security:
     enabled: false
-
